@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding="UTF8-8859-1"?>
+<Kunde>
+    <KarteAuslesen>
+        <!-- EC-Kartenauthentifizierung und validierung-->
+        <KartennummerAuslesen/>
+        
+        
+        <!-- Abfrage beim Kunden-->
+        <KartenPinEingabe><KartenPinEingabe>
+
+        <!-- Abfrage bei der Bank-->
+        <KartenPinAuslesen><KartenPinAuslesen>
+            <AusgabePinOK>
+                <KundenKontostand/>
+                <GeldAuszahlen>
+                    <SummeKleinerAls5Euro>Es kann nicht weniger als 5 € ausgezahlt werden</SummeKleinerAls5Euro>
+                    <SummeGrosserAls1000Euro>Sie können nicht mehr als 1000 € am Tag ausleihen.<SummeGrosserAls1000Euro>
+                <GeldAuszahlen>
+                <GeldEinzahlen/>
+                
+
+
+                
+            </AusgabePinOK>
+    </KarteAuslesen>
+        
+</Kunde>

@@ -1,0 +1,4 @@
+<!ELEMENT addresse (vorname,firma,handy)>
+<!ELEMENT vorname (#PCDATA)>
+<!ELEMENT firma (#PCDATA)>
+<!ELEMENT handy (#PCDATA)>

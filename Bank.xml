@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+
+<Bank>
+    <Kunde>
+        <Kundennummer>111111</Kundennummer>
+        <IBAN>134567890</IBAN>
+        <Kartennummer>5405048045</Kartennummer>
+        <Kontostand>5840 €</Kontostand>
+        <Pin>
+            <!-- SHA-1 Hashwert für 1234-->
+            <hash>81dc9bdb52d04dc20036dbd8313ed055</hash>
+        </Pin>
+
+    </Kunde>
+</Bank>

@@ -1,0 +1,11 @@
+<?xml version="1"?>
+<atm>
+	<cardnummer>637647346</cardnummer>
+	<pincode>3424</pincode>
+	<amount>500</amount>
+	<time>03.01.2020 10:38</time>
+	<error>001</error>
+	<error_msg>EC Karte ist schon abgelaufen</error_msg>
+	<success></success>
+	<balance></balance>
+</atm>
